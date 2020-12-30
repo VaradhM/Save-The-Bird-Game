@@ -70,6 +70,7 @@ function setup() {
   
   
   boundary2 = createSprite(100,height+30,2010,2);
+  boundary2.visible = false;
   
   jungleSound.loop();
  
