@@ -65,7 +65,7 @@ function preload(){
 function setup() {
   createCanvas(windowWidth,windowHeight);
   
-  boundary1 = createSprite(100,height-645,2010,2);
+  boundary1 = createSprite(100,height-645,4010,2);
   boundary1.visible = false;
   
   
